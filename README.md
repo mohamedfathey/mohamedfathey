@@ -10,19 +10,17 @@
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-00D4FF?style=for-the-badge" alt="Focus" />
 </div>
 
----
-
 ## 🎯 About Me
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="20%" align="center">
-        <img src="https://res.cloudinary.com/dcwnj8pxv/image/upload/v1752764372/product/merchant_1/y4laeflwhpbxgemhx5ci.jpg" alt="Mohamed Fathey" width="150" style="border-radius: 50%; border: 3px solid #00D4FF; box-shadow: 0 4px 8px rgba(0, 212, 255, 0.3);" />
+      <td width="20%" align="center" valign="top">
+        <img src="https://res.cloudinary.com/dcwnj8pxv/image/upload/v1752764372/product/merchant_1/y4laeflwhpbxgemhx5ci.jpg" alt="Mohamed Fathey" width="150" style="border-radius: 60% 60% 40% 40%; border: 3px solid #00D4FF; box-shadow: 0 0 24px 6px #00D4FF, 0 4px 16px rgba(0, 212, 255, 0.3); margin-bottom: 8px;" />
         <br/>
         <sub><strong>Mohamed Fathey</strong></sub>
       </td>
-      <td width="50%" align="left">
+      <td width="50%" align="left" valign="top">
         <h3>👨‍💻 Developer Profile</h3>
         <p>
           I'm a passionate <strong>Software Engineer</strong> from <strong>Egypt 🇪🇬</strong>, dedicated to building robust, scalable applications that solve real-world problems. With a focus on backend architecture and full-stack development, I bring ideas to life through clean, efficient code.
@@ -36,7 +34,7 @@
           <li>🤝 Collaborating on innovative projects</li>
         </ul>
       </td>
-      <td width="30%" align="center">
+      <td width="30%" align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=mohamedfathey&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
     </tr>
@@ -49,8 +47,6 @@
     <p><em>"Great software is not built by accident. It's crafted with intention, passion, and relentless attention to detail."</em></p>
   </blockquote>
 </div>
-
----
 
 ## 🛠️ Technical Arsenal
 
@@ -118,8 +114,6 @@
   </table>
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -131,15 +125,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfathey&theme=redical&hide_border=true&area=true&point=FFFFFF" alt="Activity Graph" />
 </div>
 
----
-
 ## 🏆 Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedfathey&theme=radical&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
-
----
 
 ## 🚀 Current Focus
 
@@ -177,8 +167,6 @@
   <img src="https://img.shields.io/badge/API-Development-4ECDC4?style=flat-square&logo=postman" alt="API Development" />
 </div>
 
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -209,15 +197,11 @@
   </table>
 </div>
 
----
-
 ## 📈 Contribution Statistics
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mohamedfathey&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=50&animation=twinkling" />
