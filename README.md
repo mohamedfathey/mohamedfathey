@@ -12,41 +12,27 @@
 
 ## 🎯 About Me
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="20%" align="center" valign="top">
-        <img src="https://res.cloudinary.com/dcwnj8pxv/image/upload/v1752764372/product/merchant_1/y4laeflwhpbxgemhx5ci.jpg" alt="Mohamed Fathey" width="150" style="border-radius: 60% 60% 40% 40%; border: 3px solid #00D4FF; box-shadow: 0 0 24px 6px #00D4FF, 0 4px 16px rgba(0, 212, 255, 0.3); margin-bottom: 8px;" />
-        <br/>
-        <sub><strong>Mohamed Fathey</strong></sub>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h3>👨‍💻 Developer Profile</h3>
-        <p>
-          I'm a passionate <strong>Software Engineer</strong> from <strong>Egypt 🇪🇬</strong>, dedicated to building robust, scalable applications that solve real-world problems. With a focus on backend architecture and full-stack development, I bring ideas to life through clean, efficient code.
-        </p>
-        <h4>🚀 What Drives Me:</h4>
-        <ul>
-          <li>🏗️ Architecting scalable backend systems</li>
-          <li>🔧 Crafting clean, maintainable code</li>
-          <li>🌱 Continuous learning and growth</li>
-          <li>💡 Solving complex technical challenges</li>
-          <li>🤝 Collaborating on innovative projects</li>
-        </ul>
-      </td>
-      <td width="30%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamedfathey&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="left" src="https://res.cloudinary.com/dcwnj8pxv/image/upload/v1752764372/product/merchant_1/y4laeflwhpbxgemhx5ci.jpg" width="150" style="border-radius: 50%; border: 3px solid #00D4FF; margin-right: 40px;"/>
 
-<div align="center">
-  <h3>💭 Philosophy</h3>
-  <blockquote>
-    <p><em>"Great software is not built by accident. It's crafted with intention, passion, and relentless attention to detail."</em></p>
-  </blockquote>
-</div>
+I'm a passionate **Software Engineer** from **Egypt 🇪🇬**, dedicated to building robust, scalable applications that solve real-world problems. With a focus on backend architecture and full-stack development, I bring ideas to life through clean, efficient code.
+
+### 🚀 What Drives Me:
+- 🏗️ Architecting scalable backend systems
+- 🔧 Crafting clean, maintainable code
+- 🌱 Continuous learning and growth
+- 💡 Solving complex technical challenges
+- 🤝 Collaborating on innovative projects
+
+<br clear="left"/>
+
+---
+
+## 💭 Philosophy
+
+> _"Great software is not built by accident. It's crafted with intention, passion, and relentless attention to detail."_
+
+---
+
 
 ## 🛠️ Technical Arsenal
 
@@ -114,16 +100,19 @@
   </table>
 </div>
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfathey&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfathey&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedfathey&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfathey&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedfathey&theme=redical&hide_border=true&area=true&point=FFFFFF" alt="Activity Graph" />
 </div>
+
+---
 
 ## 🏆 Achievements
 
@@ -131,77 +120,49 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mohamedfathey&theme=radical&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
+---
+
 ## 🚀 Current Focus
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <h4>🔨 Building</h4>
-        <p>Scalable microservices architecture<br/>
-        RESTful APIs with Spring Boot<br/>
-        Cloud-native applications</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>📚 Learning</h4>
-        <p>Advanced system design patterns<br/>
-        Kubernetes orchestration<br/>
-        Event-driven architectures</p>
-      </td>
-      <td align="center" width="33%">
-        <h4>🤝 Collaborating</h4>
-        <p>Open source contributions<br/>
-        Backend optimization projects<br/>
-        Developer community building</p>
-      </td>
-    </tr>
-  </table>
-</div>
+| 🔨 Building | 📚 Learning | 🤝 Collaborating |
+| --- | --- | --- |
+| Scalable microservices architecture<br/>RESTful APIs with Spring Boot<br/>Cloud-native applications | Advanced system design patterns<br/>Kubernetes orchestration<br/>Event-driven architectures | Open source contributions<br/>Backend optimization projects<br/>Developer community building |
 
-<div align="center">
-  <h4>💬 Ask me about:</h4>
-  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=spring" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django" alt="Django" />
-  <img src="https://img.shields.io/badge/Database-Design-336791?style=flat-square&logo=postgresql" alt="Database Design" />
-  <img src="https://img.shields.io/badge/System-Architecture-FF6B6B?style=flat-square&logo=apache" alt="System Architecture" />
-  <img src="https://img.shields.io/badge/API-Development-4ECDC4?style=flat-square&logo=postman" alt="API Development" />
-</div>
+---
+
+## 💬 Ask me about:
+
+![Spring Boot](https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square&logo=spring)
+![Django](https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django)
+![Database Design](https://img.shields.io/badge/Database-Design-336791?style=flat-square&logo=postgresql)
+![System Architecture](https://img.shields.io/badge/System-Architecture-FF6B6B?style=flat-square&logo=apache)
+![API Development](https://img.shields.io/badge/API-Development-4ECDC4?style=flat-square&logo=postman)
+
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://www.linkedin.com/in/mohamed-fathy-102037265/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-        <br/>
-        <sub>Professional networking</sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="mailto:your.email@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <br/>
-        <sub>Direct communication</sub>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/mohamedfathey" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <br/>
-        <sub>Code repositories</sub>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/mohamed-fathy-102037265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mohamedfathey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
+
+---
 
 ## 📈 Contribution Statistics
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=mohamedfathey&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=50&animation=twinkling" />
